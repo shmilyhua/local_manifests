@@ -3,8 +3,6 @@
     <project name="shmilyhua/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="4.9.118" />
     <project name="shmilyhua/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="pe-eleven" />
     <project name="shmilyhua/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="pe-eleven" />
-    <project name="shmilyhua/android_device_samsung_star2lte" path="device/samsung/star2lte" remote="github" revision="pe-eleven" />
-    <project name="shmilyhua/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="pe-eleven" />
     <project name="shmilyhua/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="pe-eleven" />
     <project name="shmilyhua/android_hardware_samsung" path="hardware/samsung" remote="github" revision="pe-eleven" />
 </manifest>
